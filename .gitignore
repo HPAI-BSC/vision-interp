@@ -1,0 +1,12 @@
+wandb/
+notebooks/test.ipynb
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+slurm_output/
+nnsight.log
+notebooks/plots
+testing.py
+.venv/
