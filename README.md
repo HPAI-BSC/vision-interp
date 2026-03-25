@@ -34,6 +34,12 @@
   </a> -->
 </div>
 
+<div align="center" style="line-height: 1;">
+  <a href="https://arxiv.org/abs/2603.22593" target="_blank" style="margin: 1px;">
+    <img alt="Arxiv" src="https://img.shields.io/badge/arXiv-2603.22593-b31b1b.svg" style="display: inline-block; vertical-align: middle;"/>
+  </a>
+</div>
+
 
 ## Getting Started
 Navigate to the path where you would like to clone this repository (will refer to `REPO_DIR`) and run:
