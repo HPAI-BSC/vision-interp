@@ -1,4 +1,4 @@
-# Language Models Can Explain Visual Features via Steering
+# Language Models Can Explain Visual Features via Steering [CVPR 2026]
 
 <div align="center">
 <!--   <img src="https://raw.githubusercontent.com/HPAI-BSC/vision-interp/TODO.png" width="400" alt="HPAI"/> -->
